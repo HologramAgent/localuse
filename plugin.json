@@ -1,0 +1,13 @@
+{
+  "author": "HologramAgent",
+  "auto_start": false,
+  "description": "Device",
+  "entry": "plugin.bin",
+  "name": "localuse",
+  "name_en": "localuse",
+  "name_zh": "本地外设",
+  "tags": [
+    "localuse"
+  ],
+  "version": "1.0.0"
+}
